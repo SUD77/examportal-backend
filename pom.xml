@@ -63,11 +63,6 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <!-- Below things are done for AWS-->
-                <configuration>
-                    <executable>true</executable>
-                </configuration>
-
             </plugin>
         </plugins>
     </build>
